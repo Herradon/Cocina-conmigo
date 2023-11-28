@@ -20,6 +20,13 @@
 
 /*--COMIENZO DE EL NAVEGADOR--*/
 
+#header-total {
+background-color: var(--color2);
+position: fixed;
+width: 100%;
+text-align: center;
+}
+
 .navbar {
 background-color: var(--color2);
 width: 100%;
@@ -114,4 +121,38 @@ margin-top: 1em;
 }
 /*--FINAL DE CONTENIDO--*/
 
-/*------------FINAL DE PÁGINA QUIENES SOMOS--------------*\
+/*------------FINAL DE PÁGINA QUIENES SOMOS--------------*/
+
+/*------------COMIENZO DE SOBRE NOSOTROS--------------*/
+
+/*--COMIENZO DE PRESENTACIÓN--*/
+
+#presentacion {
+padding-top: 4em;
+}
+
+/*--FINAL DE PRESENTACIÓN--*/
+
+/*------------FINAL DE SOBRE NOSOTROS--------------*/
+
+/*------------COMIENZO DE SOPORTE--------------*/
+
+/*--COMIENZO DE FORMULARIO--*/
+
+#confirmation {
+padding-top: 5em;
+background-color: #6aba66;
+justify-content: center;
+}
+
+#confirmation form {
+text-align: center;
+width: 30em;
+background-color: #cd3f3f;
+}
+
+
+
+/*--FINAL DE FORMULARIO--*/
+
+/*------------FINAL DE SOPORTE--------------*/

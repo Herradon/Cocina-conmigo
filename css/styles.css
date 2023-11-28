@@ -8,10 +8,11 @@
 }
 
 :root {
-    --colorFondo: rgb(232, 49, 49);
+    --color0:  #6aba66;
     --color1: #ffffff;
     --color2: #e0e0e0;
     --color3: #000000;
+    --color4: #cd3f3f;
    
 }
 
@@ -21,6 +22,9 @@
 
 .navbar {
 background-color: var(--color2);
+width: 100%;
+height: 4em;
+position: relative;
 }
 
 .navbar a {
@@ -28,9 +32,17 @@ color: var(--color3);
 }
 
 .navbar a:hover {
-    color: var(--colorFondo);
-    font-size: 1.5em;
-    }
+color: var(--color4)
+}
+
+.navbar .collapse {
+justify-content: center;
+}
+
+.navbar-nav a {
+margin-left: 1em;
+margin-right: 1em;
+}
 
 /*--FINAL DE EL NAVEGADOR--*/
 

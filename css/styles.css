@@ -19,12 +19,19 @@
 
 /*--COMIENZO DE EL NAVEGADOR--*/
 
- #header{
+.navbar {
 background-color: var(--color2);
 }
 
+.navbar a {
+color: var(--color3);
+}
+
+.navbar a:hover {
+    color: var(--colorFondo);
+    font-size: 1.5em;
+    }
+
 /*--FINAL DE EL NAVEGADOR--*/
 
-/*------------FINAL DE PÁGINA QUIENES SOMOS--------------*/
-
-
+/*------------FINAL DE PÁGINA QUIENES SOMOS--------------*\

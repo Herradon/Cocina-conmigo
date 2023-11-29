@@ -180,6 +180,14 @@ margin-top: 1em;
 }
 /*--FINAL DE CONTENIDO--*/
 
+/*--COMIENZO DEL FOOTER--*/
+
+    footer {
+background-color: var(--color2);
+}
+
+/*--FINAL DEL FOOTER--*/
+
 /*------------FINAL DE PÁGINA QUIENES SOMOS--------------*/
 
 /*------------COMIENZO DE SOBRE NOSOTROS--------------*/

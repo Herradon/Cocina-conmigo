@@ -138,65 +138,13 @@ height: 15em;
 flex: 24%;
 }
 
-.carrusel1 {
-background-color: #6aba66;
-width: 100%;
+.btn-flex {
+background-color: var(--color1);
+width: 13em;
+color: var(--color3);
+border: none;
 }
 
-.carrusel2 {
-
-width: 100%;
-}
-
-.carrusel3 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel4 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel5 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel6 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel7 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel8 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel9 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel10 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel11 {
-background-color: #6aba66;
-width: 100%;
-}
-
-.carrusel12 {
-background-color: #6aba66;
-width: 100%;
-}
 
 #imagenes-card figure img {
 width: 13em;

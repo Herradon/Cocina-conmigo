@@ -20,6 +20,7 @@
 
 /*--COMIENZO DE EL NAVEGADOR--*/
 
+
 #header-total {
 background-color: var(--color2);
 position: fixed;
@@ -119,7 +120,7 @@ width: 21em;
 height: 50em;
 text-align: center;
 border-right: solid 0.2em;
-z-index: -1;
+
 }
 
 .info .video {

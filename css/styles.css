@@ -117,15 +117,25 @@ padding-top: 1em;
 padding-left: 1em;
 padding-right: 1em;
 width: 21em;
-height: 50em;
+height: 65em;
 text-align: center;
 border-right: solid 0.2em;
-
+justify-content: center;
 }
 
 .info .video {
 width: 20%;
 }
+
+#content {
+height: 30em;
+padding-top: 5em;
+} 
+
+#content2 {
+height: 30em;
+padding-top: 5em;   
+} 
 
 .card2 {
 padding-top: 0.7em;

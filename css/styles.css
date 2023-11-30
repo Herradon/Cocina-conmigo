@@ -176,9 +176,32 @@ border: none;
 width: 13em;
 }
 
+.figure {
+margin-left: 2.5em;
+margin-right: 2.5em;
+}
+
 .card-body {
 margin-top: 1em;
 }
+
+#primer-bloque {
+margin: 2em;
+}
+
+#segundo-bloque {
+margin: 2em;
+}
+
+#tercer-bloque {
+margin: 2em;
+}
+
+#cuarto-bloque {
+margin: 2em;
+}
+
+
 /*--FINAL DE CONTENIDO--*/
 
 /*--COMIENZO DEL FOOTER--*/

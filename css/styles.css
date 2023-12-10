@@ -53,11 +53,15 @@ margin-left: 1em;
 margin-right: 1em;
 }
 
-.navbar img {
-width: 4em;
+.logo {
+display: flex;
 }
 
-.navbar h4 {
+.logo img {
+width: 3em;
+}
+
+.logo h4 {
 font-family:Georgia, 'Times New Roman', Times, serif;
 width: 7em;
 }
@@ -228,9 +232,6 @@ background-color: var(--color2);
 
 /*--COMIENZO DE PRESENTACIÓN--*/
 
-#presentacion {
-padding-top: 4em;
-}
 
 #todoenuno {
 display: flex;
@@ -262,6 +263,14 @@ padding-right: 1em;
 width: 70%;
 padding-left: 1em;
 padding-right: 1em;
+}
+
+.carousel h5 {
+color: var(--color1);
+}
+
+.carousel p {
+color: var(--color1);
 }
 
 .card-style {

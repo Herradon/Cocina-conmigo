@@ -17,7 +17,7 @@ const appendAlert = (message, type) => {
 const alertTrigger = document.getElementById('liveAlertBtn')
 if (alertTrigger) {
   alertTrigger.addEventListener('click', () => {
-    appendAlert('Nice, you triggered this alert message!', 'success')
+    appendAlert('Gracias por registrar tu correo, en breves te enviaremos toda la información que necesitas!', 'success')
   })
 }
 

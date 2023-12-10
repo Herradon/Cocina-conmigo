@@ -232,6 +232,50 @@ background-color: var(--color2);
 padding-top: 4em;
 }
 
+#todoenuno {
+display: flex;
+background-color: var(--color2);
+padding-bottom: 2em;
+padding-top: 7em;
+height: 100vh;
+}
+
+#texto1 {
+padding-left: 1em;
+padding-right: 1em;
+}
+
+#texto1 h1 {
+font-size: 2em;
+}
+
+#texto2 h1 {
+font-size: 2em;
+}
+
+#texto2 {
+padding-left: 1em;
+padding-right: 1em;
+}
+
+.carousel {
+width: 70%;
+padding-left: 1em;
+padding-right: 1em;
+}
+
+.card-style {
+margin-left: 1em;
+width: 100vh;
+height: 34.5em;
+}
+
+.card-style2 {
+margin-right: 1em;
+width: 100vh;
+height: 34.5em;
+}
+
 /*--FINAL DE PRESENTACIÓN--*/
 
 /*------------FINAL DE SOBRE NOSOTROS--------------*/
@@ -240,7 +284,10 @@ padding-top: 4em;
 
 /*--COMIENZO DE FORMULARIO--*/
 
-
+form {
+padding-top: 6em;
+width: 100%;
+}
 
 /*--FINAL DE FORMULARIO--*/
 

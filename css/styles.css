@@ -308,8 +308,13 @@ width: 20em;
 /*--COMIENZO DE FORMULARIO--*/
 
 #formulario {
-padding-top: 6em;
+padding-top: 8em;
 background-color: var(--color2);
+}
+
+#formulario .row {
+display: flex;
+justify-content: center;
 }
 
 /*--FINAL DE FORMULARIO--*/

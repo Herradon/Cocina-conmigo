@@ -307,6 +307,11 @@ width: 20em;
 
 /*--COMIENZO DE FORMULARIO--*/
 
+#formulario {
+padding-top: 6em;
+background-color: var(--color2);
+}
+
 /*--FINAL DE FORMULARIO--*/
 
 /*------------FINAL DE SOPORTE--------------*/
